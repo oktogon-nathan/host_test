@@ -155,7 +155,7 @@
       padding: 0 1.5rem;
   }
   
-  @media (max-width:568px){
+  @media (max-width:375px){
       .container{
           margin: 0 auto;
           padding: 0 1.5rem;
